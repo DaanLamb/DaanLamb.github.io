@@ -22,7 +22,7 @@ title: Daan Lambert's personal site
 # email: daan.lambert@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A website for some of my projects. More information about me can be found
-  on the about page. 
+  on the about page.
 logo: /assets/images/fotoCropped.PNG
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -34,6 +34,11 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-gallery-generator
+
+# for image gallery from https://dmnfarrell.github.io/software/jekyll-galleries
+imagesurl: "/assets/gallery/"
+thumbsurl: "/assets/thumbs/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
