@@ -5,4 +5,4 @@
 layout: default
 ---
 
-## [About](/about.markdown)
+## [About]({{ site.baseurl }}{% link about.markdown%})
