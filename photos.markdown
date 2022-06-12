@@ -6,7 +6,7 @@ permalink: /photos/
 ### [Home]({{ site.baseurl }}{% link index.markdown%})
 {: style="text-align: right"}
 
-# Foto's of me
+# Photo's of me
 {: style="text-align: center"}
 
 
