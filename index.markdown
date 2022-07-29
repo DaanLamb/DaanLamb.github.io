@@ -5,4 +5,5 @@
 layout: default
 ---
 
-## [About]({{ site.baseurl }}{% link about.markdown%})
+### [About]({{ site.baseurl }}{% link about.markdown%})
+{: style="text-align: right"}
