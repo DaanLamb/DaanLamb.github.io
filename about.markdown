@@ -15,7 +15,7 @@ This pages covers my [Interests](#interests), [Hobbies](#hobbies) and [Education
 
 Currently my largest interests lay in two areas: security and time series data.
 
-Cyber security as a topic has been in the back of my mind throughout most of my academic career. Unfortunately because security and academia don't go well together, it had to stay in the back. Aside from the occasional optional course, the AI study does not focus much on security. But my first course on security given by Frank Brokken helped my interest grow. Fortunately, AI has crept into the world of security more and more. Of course the clearest example is the AI for fraud detection. But my interest extend beyond the data layer of security. Especially to the more theoretical parts of the discipline.
+Cyber security as a topic has been in the back of my mind throughout most of my academic career. Unfortunately because security and academia don't go well together, it had to stay in the back. Aside from the occasional optional course, the AI study does not focus much on security. But my first course on security helped my interest grow. Fortunately, AI has crept into the world of security more and more. Of course the clearest example is the AI for fraud detection. But my interest extend beyond the data layer of security. Especially to the more theoretical parts of the discipline.
 
 My interest in time series data came about during my master thesis. Before that I dismissed it as something mostly used for financial modeling, which in fairness is true. During my thesis I was exposed to the intersection between time series data and signal processing/wave mechanics. This area of research is oriented towards data representations and their functionality.
 
