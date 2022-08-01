@@ -23,7 +23,7 @@ title: Daan Lambert's personal site
 description: >- # this means to ignore newlines until "baseurl:"
   A website for some of my projects. More information about me can be found
   on the about page.
-logo: /assets/images/fotoCropped.PNG
+logo: /assets/images/headshot_Daan.jpg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
